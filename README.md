@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <a href="mailto:lenka.barica@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
+<br>
 ## 🚀 Skills 🔝
-
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <!--<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />-->
