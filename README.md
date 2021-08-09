@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Lenka 👩‍💻
 
-❤ Frontend developer & Tester & UX/UI (graphic) designer 🖥
+❤ Frontend developer & Tester (hunting of 🐛) & UX/UI (graphic) designer 🖥
 
 <!--
 **LenkaSilna/LenkaSilna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
